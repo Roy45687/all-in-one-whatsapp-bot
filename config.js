@@ -21,7 +21,7 @@ global.github=process.env.GITHUB|| "https://github.com/uwemdev/all-in-one-whatsa
 global.gurl  =process.env.GURL  || "https://api.whatsapp.com/send?phone=2348110572387&text=Hi%20Uwem%2C";
 global.website=process.env.GURL || "https://uwemdev.com" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://uwemdev.com/storage/home/about-file-1724092734.jpg" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "Uwemdev" 
+global.caption = process.env.CAPTION || global.caption || "Uwmemdev" 
 
 
 global.devs = "2348110572387" // Developer Contact
