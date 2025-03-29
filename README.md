@@ -4,6 +4,8 @@
   <br/><br/>
   
   Credits goes to <a href="https://github.com/SuhailTechInfo/">Suhail Tech Info</a> for Main build.</p>
+  <br/>
+  I can host this project for you for $20 a year.
 
   
   
@@ -58,7 +60,3 @@ More Variables will be updated.
 ---
 
 - Star ⭐ repo if you like this bot.
-
-
-
-
